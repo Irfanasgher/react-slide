@@ -1,0 +1,28 @@
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  cursor: url(curo.png), auto;
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  cursor: url(solo.png), auto;
+
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap");
+
+.accordion-flush .accordion-item .accordion-button {
+  border-radius: 0;
+  animation: revert;
+  background-color: #000;
+  animation-duration: initial;
+  color: #fff;
+  text-align: center;
+  justify-content: center;
+  font-size: inherit;
+  cursor: url(solo.png), auto;
+}
+.css-i4bv87-MuiSvgIcon-root {
+  cursor: url(curo.png), auto;
+  color: #fff;
+}

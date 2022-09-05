@@ -1,0 +1,123 @@
+/* Default height for small devices */
+#intro-example {
+  height: 750px;
+}
+#intro-time {
+  height: 100%;
+}
+
+@media (min-width: 992px) {
+  #intro-time {
+    height: 100%;
+  }
+  .head_text {
+    font-size: 100px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin-top: -70px;
+  }
+}
+
+#intro-team {
+  height: 100%;
+}
+@media (min-width: 992px) {
+  #intro-team {
+    height: 100%;
+  }
+  .head_text {
+    font-size: 100px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin-top: -70px;
+  }
+}
+/* Height for devices larger than 992px */
+@media (min-width: 992px) {
+  #intro-faq {
+    height: 100%;
+  }
+  .head_text {
+    font-size: 100px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin-top: -70px;
+  }
+}
+
+#intro-faq {
+  height: 100%;
+}
+
+
+
+#intro-time {
+  height: 800px;
+}
+
+@media (min-width: 992px) {
+  #intro-time {
+    height: 900px;
+  }
+  .head_text {
+    font-size: 100px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin-top: -70px;
+  }
+}
+
+#intro-slider {
+  height: 800px;
+}
+@media (min-width: 992px) {
+  #intro-slider {
+    height: 800px;
+  }
+  .head_text {
+    font-size: 100px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin-top: -70px;
+  }
+}
+
+/* Height for devices larger than 992px */
+@media (min-width: 992px) {
+  #intro-faq {
+    height: 100%;
+  }
+  .head_text {
+    font-size: 100px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin-top: -70px;
+  }
+}
+
+/* Height for devices larger than 992px */
+@media (min-width: 992px) {
+  #intro-example {
+    height: 100vh;
+  }
+  .head_text {
+    font-size: 100px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin-top: -70px;
+  }
+}
+.background_hero {
+  background-image: url(../images/bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
